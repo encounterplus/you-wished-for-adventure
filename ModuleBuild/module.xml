@@ -1,285 +1,106 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<module id="13efbd9c-fa67-5242-9186-18b30d72cf5f">
-  <name>You Wished For Adventure!</name>
+<module id="982ef8cd-d49b-4c62-b901-8554acb83beb">
+  <name>You Wished For Adventure</name>
   <slug>you-wished-for-adventure</slug>
-  <description>A First Level adventure for DND 5e and Encounter+</description>
+  <description>A first level adventure for DND 5e and Encounter+</description>
   <author>nabdo</author>
   <code/>
   <category>adventure</category>
-  <image/>
-  <group id="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>.git</name>
-    <slug>group-git</slug>
+  <image>cover.png</image>
+  <group id="a8cbd673-468f-55dd-8bd1-e37615a5138b">
+    <name>Starting The Adventure</name>
+    <slug>you-wished-for-adventure-starting-the-adventure</slug>
   </group>
-  <group id="cf85762d-e127-51b9-ac5e-b4544c13164a" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>branches</name>
-    <slug>group-branches</slug>
-  </group>
-  <group id="c167511c-c264-5402-a95e-98c8b8538a20" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>hooks</name>
-    <slug>group-hooks</slug>
-  </group>
-  <group id="d27985a1-d260-5e8a-a1fd-8118cc86ac3a" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>info</name>
-    <slug>group-info</slug>
-  </group>
-  <group id="ee3913ca-eef4-5365-8991-257fac7b5b18" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>logs</name>
-    <slug>group-logs</slug>
-  </group>
-  <group id="fa6dd2a2-9c6d-5a28-baf8-ab812460a498" parent="ee3913ca-eef4-5365-8991-257fac7b5b18">
-    <name>refs</name>
-    <slug>group-refs</slug>
-  </group>
-  <group id="bcf4f881-6e6f-59f9-b401-5eb2bcd0e05b" parent="fa6dd2a2-9c6d-5a28-baf8-ab812460a498">
-    <name>heads</name>
-    <slug>group-heads</slug>
-  </group>
-  <group id="09dfb79e-fdd4-51f6-baef-ad80352aceca" parent="fa6dd2a2-9c6d-5a28-baf8-ab812460a498">
-    <name>remotes</name>
-    <slug>group-remotes</slug>
-  </group>
-  <group id="27e8fe6b-418c-5695-91c4-70766274ce52" parent="09dfb79e-fdd4-51f6-baef-ad80352aceca">
-    <name>origin</name>
-    <slug>group-origin</slug>
-  </group>
-  <group id="f91c46b7-a34d-5620-a9ea-b54b990dee0c" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>objects</name>
-    <slug>group-objects</slug>
-  </group>
-  <group id="2aa7fc37-39d4-5c3b-bdd3-88fe4487174d" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>0c</name>
-    <slug>group-0c</slug>
-  </group>
-  <group id="5f5fdbdb-eee3-58d6-894e-16925cd7bdf6" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>1c</name>
-    <slug>group-1c</slug>
-  </group>
-  <group id="e9a6901b-7957-55c7-86b9-05173284253c" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>1e</name>
-    <slug>group-1e</slug>
-  </group>
-  <group id="1975616d-412b-5258-ac74-e89a59b102e1" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>38</name>
-    <slug>group-38</slug>
-  </group>
-  <group id="e6c8ad07-f450-5feb-946f-0a4dd53225f1" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>3b</name>
-    <slug>group-3b</slug>
-  </group>
-  <group id="8b603e8e-4906-5239-950a-cf25c94453c0" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>3c</name>
-    <slug>group-3c</slug>
-  </group>
-  <group id="20a542f2-5948-584c-b2b1-0ed18ad7087e" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>5d</name>
-    <slug>group-5d</slug>
-  </group>
-  <group id="6068d6bf-719b-54a2-acc9-eaf8f3107264" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>61</name>
-    <slug>group-61</slug>
-  </group>
-  <group id="fcc57675-784b-5d63-9dc3-811533322337" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>62</name>
-    <slug>group-62</slug>
-  </group>
-  <group id="f2def93a-8534-58a1-b437-05bacd0c0b6b" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>69</name>
-    <slug>group-69</slug>
-  </group>
-  <group id="914edd10-3dda-53ec-87be-45b08908e619" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>6a</name>
-    <slug>group-6a</slug>
-  </group>
-  <group id="225fabfa-adbc-5eb3-b1dd-89db4b321478" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>70</name>
-    <slug>group-70</slug>
-  </group>
-  <group id="67dfb6b4-cdff-5022-8e1a-253e5da9d371" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>75</name>
-    <slug>group-75</slug>
-  </group>
-  <group id="c3597d81-3ba6-55bd-b96d-114581c6b23c" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>7b</name>
-    <slug>group-7b</slug>
-  </group>
-  <group id="ecac1868-4f9d-5700-bbf7-d5bb4d25d7ec" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>85</name>
-    <slug>group-85</slug>
-  </group>
-  <group id="05dec168-af60-5da3-a78a-916515bca555" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>87</name>
-    <slug>group-87</slug>
-  </group>
-  <group id="ed807a48-3d11-58d6-93dd-ae61f3188aa0" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>9a</name>
-    <slug>group-9a</slug>
-  </group>
-  <group id="7549d658-bff7-581b-8b5d-bd07d75a2ec2" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>a3</name>
-    <slug>group-a3</slug>
-  </group>
-  <group id="21175d5b-3c05-57ae-ae48-a4efaffae971" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>a5</name>
-    <slug>group-a5</slug>
-  </group>
-  <group id="f6f07b02-ee7b-54e4-8ddb-76d02bbb1348" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ab</name>
-    <slug>group-ab</slug>
-  </group>
-  <group id="23126be5-a0fc-5333-a102-fec4a9dca2c8" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ae</name>
-    <slug>group-ae</slug>
-  </group>
-  <group id="5ff1e56c-14c7-52df-87a9-5413ee89e572" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>b5</name>
-    <slug>group-b5</slug>
-  </group>
-  <group id="9652f5d9-bea2-51cd-94df-a7dede16d6bb" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>b9</name>
-    <slug>group-b9</slug>
-  </group>
-  <group id="72120a26-0c12-529c-8035-9591c3530a0a" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ba</name>
-    <slug>group-ba</slug>
-  </group>
-  <group id="ea6c5e01-dfd9-5503-b012-5b542ce6397f" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>c0</name>
-    <slug>group-c0</slug>
-  </group>
-  <group id="01546ce4-dfa2-5d9b-9aaf-d48e843d0f95" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>c2</name>
-    <slug>group-c2</slug>
-  </group>
-  <group id="14b065f5-ed4b-5693-baf5-f7370d49837b" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>c3</name>
-    <slug>group-c3</slug>
-  </group>
-  <group id="c633b0e2-3d92-5989-887e-06f348c77e89" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>c5</name>
-    <slug>group-c5</slug>
-  </group>
-  <group id="0c74b08f-59f5-5202-85d0-77b248451c17" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>cb</name>
-    <slug>group-cb</slug>
-  </group>
-  <group id="4780c317-22c1-5dda-9a7c-300e8ef57c73" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>d4</name>
-    <slug>group-d4</slug>
-  </group>
-  <group id="b3fa716c-7c9e-5e42-894e-3a094d24c612" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>d9</name>
-    <slug>group-d9</slug>
-  </group>
-  <group id="cbce9c55-8c5b-587d-b67d-d56c258c3548" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>dc</name>
-    <slug>group-dc</slug>
-  </group>
-  <group id="6dcbc820-2871-540c-bee3-4732547fc276" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>e0</name>
-    <slug>group-e0</slug>
-  </group>
-  <group id="bb6d57b3-7a63-5926-a744-c45261211fb5" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>e6</name>
-    <slug>group-e6</slug>
-  </group>
-  <group id="4715984f-e514-5e6d-8d93-203cd10988dc" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ec</name>
-    <slug>group-ec</slug>
-  </group>
-  <group id="31dd40b5-b7c0-54a0-996b-eaad2dfe3f28" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ee</name>
-    <slug>group-ee</slug>
-  </group>
-  <group id="677bc39c-67a2-55a7-ab35-1696b8ace1d9" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>f2</name>
-    <slug>group-f2</slug>
-  </group>
-  <group id="3061ffc8-3252-5c77-819c-0ff5a9d1dc94" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>f7</name>
-    <slug>group-f7</slug>
-  </group>
-  <group id="3714cf85-fb25-5301-9305-f3db63848472" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>ff</name>
-    <slug>group-ff</slug>
-  </group>
-  <group id="472934cd-6f4e-5694-b846-a315b4a25a87" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>info</name>
-    <slug>group-info-1</slug>
-  </group>
-  <group id="72a63e01-98f7-5b65-b140-ea1ac8c52af3" parent="f91c46b7-a34d-5620-a9ea-b54b990dee0c">
-    <name>pack</name>
-    <slug>group-pack</slug>
-  </group>
-  <group id="145d5a4c-30c6-5380-b05a-f4f7acb1c3a9" parent="adf509eb-3180-51e5-ad7f-3b059f1e30c6">
-    <name>refs</name>
-    <slug>group-refs-1</slug>
-  </group>
-  <group id="5a045e31-1f90-5b11-a1ae-ccc766fe89db" parent="145d5a4c-30c6-5380-b05a-f4f7acb1c3a9">
-    <name>heads</name>
-    <slug>group-heads-1</slug>
-  </group>
-  <group id="69317294-e7c1-50ee-ad3d-24e56eec53a4" parent="145d5a4c-30c6-5380-b05a-f4f7acb1c3a9">
-    <name>remotes</name>
-    <slug>group-remotes-1</slug>
-  </group>
-  <group id="f0a28778-3b86-5830-9788-3cfdbe2fd520" parent="69317294-e7c1-50ee-ad3d-24e56eec53a4">
-    <name>origin</name>
-    <slug>group-origin-1</slug>
-  </group>
-  <group id="767afac3-de1f-58c3-bd89-fc9f48d7e14d" parent="145d5a4c-30c6-5380-b05a-f4f7acb1c3a9">
-    <name>tags</name>
-    <slug>group-tags</slug>
-  </group>
-  <group id="863a8340-4b22-5942-8c2a-44eb49ba78ce">
-    <name>Starting the Adventure</name>
-    <slug>group-starting-the-adventure</slug>
-  </group>
-  <group id="48c2973d-4428-5301-85ef-c81465e2854d">
+  <group id="271184eb-fde5-577b-81fe-1cf5e0a0abfc">
     <name>Under the Town</name>
-    <slug>group-under-the-town</slug>
+    <slug>you-wished-for-adventure-under-the-town</slug>
   </group>
-  <page id="0c076f8d-1503-572d-86f3-5ea5b2f4ad8c" parent="863a8340-4b22-5942-8c2a-44eb49ba78ce">
-    <name>Starting the Adventure</name>
-    <slug>starting-the-adventure</slug>
-    <content>&lt;h1 id="starting-the-adventure"&gt;Starting the Adventure&lt;/h1&gt;&lt;h3 id="how-to-use-this-adventure-guide"&gt;How to use this Adventure Guide&lt;/h3&gt;&lt;p&gt;This adventure is written for new and veteran players alike. It&amp;#x2019;s purpose to help, quickly get you using Encounter+, our very favorite virtual tabletop app. Through out you will see marked off sections labeled as such:&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: to do a thing&lt;/code&gt;&lt;/p&gt;&lt;p&gt;These sections will guide you through different features of Encounter+ that are relevant to that section of the guide. Additionally, you&amp;#x2019;ll see that there are several links within the adventure - &lt;a href&gt;They Look Like this&lt;/a&gt;. Tapping on these will take you to reference material within your compendium inside the app. &lt;em&gt;If you forgot to import the default compendium when you first turned open Encounter+ you can do so again from the Settings panel in the app&lt;/em&gt;&lt;/p&gt;</content>
+  <page id="38c01af7-3505-5faa-a205-6ad6f7463d2f" sort="1">
+    <name>You Wished For Adventure</name>
+    <slug>you-wished-for-adventure</slug>
+    <content>&lt;p&gt;&lt;img src="hero.png" alt="cover" class="size-cover"&gt;&lt;/p&gt;
+&lt;h1 id="you-wished-for-adventure!"&gt;You wished for Adventure!&lt;/h1&gt;
+&lt;h3 id="a-first-level-adventure-for-d%26d-5e"&gt;A first-level adventure for D&amp;amp;D 5E&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;SUMMARY:&lt;/strong&gt;
+A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
+&lt;p&gt;This adventure lands the players smack dab in the middle of someone else’s wish spell. It’s scaled for 4-5 players at 1st level.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ADVENTURE DESIGNER:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nate Abdo&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;other credits here&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;DUNGEONS &amp;amp; DRAGONS, D&amp;amp;D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&amp;amp;D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.&lt;/em&gt;&lt;/p&gt;
+</content>
   </page>
-  <page id="2f89a98d-edf2-51ee-94d3-f8600eb7ad07" parent="863a8340-4b22-5942-8c2a-44eb49ba78ce">
-    <name>Where are we?</name>
+  <page id="8238ed8b-23bf-5b68-9c33-7901f56702b0" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
+    <name>Using this Adventure</name>
+    <slug>using-this-adventure</slug>
+    <content>&lt;h1 id="starting-the-adventure"&gt;Starting the Adventure&lt;/h1&gt;
+&lt;h3 id="how-to-use-this-adventure-guide"&gt;How to use this Adventure Guide&lt;/h3&gt;
+&lt;p&gt;This adventure is written for new and veteran players alike. It’s purpose to help, quickly get you using Encounter+, our very favorite virtual tabletop app. Through out you will see marked off sections labeled as such:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;LEARN HOW: to do a thing&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;These sections will guide you through different features of Encounter+ that are relevant to that section of the guide. Additionally, you’ll see that there are several links within the adventure - &lt;a href=""&gt;They Look Like this&lt;/a&gt;. Tapping on these will take you to reference material within your compendium inside the app. &lt;em&gt;If you forgot to import the default compendium when you first turned open Encounter+ you can do so again from the Settings panel in the app&lt;/em&gt;&lt;/p&gt;
+</content>
+  </page>
+  <page id="4522cc1e-3bc9-5547-8b32-6f2731718199" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
+    <name>Where are we</name>
     <slug>where-are-we</slug>
-    <content>&lt;h2 id="where-are-we%3F"&gt;Where are we?&lt;/h2&gt;&lt;p&gt;The adventure begins with the party slowly opening their eyes. They groggily begin to register their senses after this unexpected state of unconsciousness and find themselves in the middle of a small town they don&amp;#x2019;t recognize. It is a relatively small town, although the homes seem affluent, large and well built. The main roadway through the town is paved in perfectly symmetrical cobblestones with an empty fountain in the center. As the players look around and get their bearings the silence is the most noticeable thing about this place. You would expect a place like this to be a bit more bustling at midday, but there is no sound. You would expect the residents of a place like this to be to-ing and fro-ing, but there are no people. The homes are unlit and empty. The chimneys are clean and smokeless.&lt;/p&gt;&lt;p&gt;As the Dungeon Master, you can determine if and how the players know each other. This opening instance is intended to accomplish two things: first, introduce the characters to each other (i.e., describing their characters&amp;#x2019; descriptions and a bit of their personalities); and second give your players space to acclimate to the setting.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: to share maps and images with Encounter+&lt;/code&gt;&lt;/p&gt;&lt;p&gt;Once they&amp;#x2019;ve gotten a feel for what they see you can have them explore the town a bit more. All of the homes are unlocked and empty. With the exception of the Mansion at the edge of the road, nothing of value is inside any of them. You may simply describe what the players see inside.&lt;/p&gt;&lt;blockquote class="read"&gt;
-&lt;p&gt;&amp;#x201C;The home is well furnished and immaculately clean. In fact, it&amp;#x2019;s eerily spotless. There are no occupants and is just as devoid of life as the town outside.&amp;#x201D;&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;After the players have explored an empty house or two, have them roll perception checks as they gather information on what to do next. Any player who successfully rolls the &lt;strong&gt;DC 11 Perception check&lt;/strong&gt; needed for this, see a strange flicker. Just for an instant they see the well built homes they are surrounded by become ruined and collapsed. The cobblestone road they stand upon becomes a dirt strip covered with weeds. Almost as soon as they see it, it reverts back to the luxurious space it was before. The only building that didn&amp;#x2019;t change in this flicker is a large mansion at the far end of the road. Players who succeeded the earlier perception check can see this flicker continuing at routine intervals. The closer they get to this building the more constant the flickering seems.&lt;/p&gt;&lt;p&gt;The players can enter through the front door with ease as it is also unlocked. When they do they find what is likely the most opulent interior they&amp;#x2019;ve ever seen. The mansion is filled with expensive artwork, pottery, and tapestries. It is brightly lit by wall sconces, candelabras and chandeliers. The players can hear muffled voices coming from further inside the mansion although they aren&amp;#x2019;t certain where. You may use your discretion to determine how (and when) they find the source of these voices. If the players attempt to pickup or take anything from the mansion all of them are immediately teleported to where they first awoke in the town. They once again awaken from unconscious &amp;#x2013; unharmed, but woozy. Eventually, as they explore the mansion they will enter a large dining area. As they enter this space they&amp;#x2019;ll find the source of the voices are coming from a well dressed, well groomed man arguing with a large, red-skinned, heavily muscled creature with pointy teeth and short horns protruding from its bald head. Players can roll a &lt;strong&gt;DC 15 Arcana or Religion check&lt;/strong&gt; (you may let them choose) to ascertain that this large being is in fact an &lt;a href="/monster/efreeti"&gt;Efreeti&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;The man and Efreeti will finally notice that the players have entered. The man will be shocked and upset. The Efreeti will chuckle rather heartily.&lt;/p&gt;&lt;p&gt;He puts his hands wide and says, &lt;em&gt;&amp;quot;You see Barlow, you wanted the perfect town and the perfect town needs heroes, doesn&amp;#x2019;t it?&amp;#x201D;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;He continues to laugh as the man, Barlow, angrily reprimands the Efreeti, &lt;em&gt;&amp;#x201C;You know this isn&amp;#x2019;t what I meant, now get rid of these idiots like you did the rest.&amp;#x201D;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;&amp;#x201C;Your wish is my command,&amp;#x201D;&lt;/em&gt; the Efreeti ominously says while laughing manically.&lt;/p&gt;</content>
+    <content>&lt;h2 id="where-are-we%3F"&gt;Where are we?&lt;/h2&gt;
+&lt;p&gt;The adventure begins with the party slowly opening their eyes. They groggily begin to register their senses after this unexpected state of unconsciousness and find themselves in the middle of a small town they don’t recognize. It is a relatively small town, although the homes seem affluent, large and well built. The main roadway through the town is paved in perfectly symmetrical cobblestones with an empty fountain in the center. As the players look around and get their bearings the silence is the most noticeable thing about this place. You would expect a place like this to be a bit more bustling at midday, but there is no sound. You would expect the residents of a place like this to be to-ing and fro-ing, but there are no people. The homes are unlit and empty. The chimneys are clean and smokeless.&lt;/p&gt;
+&lt;p&gt;As the Dungeon Master, you can determine if and how the players know each other. This opening instance is intended to accomplish two things: first, introduce the characters to each other (i.e., describing their characters’ descriptions and a bit of their personalities); and second give your players space to acclimate to the setting.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;LEARN HOW: to share maps and images with Encounter+&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Once they’ve gotten a feel for what they see you can have them explore the town a bit more. All of the homes are unlocked and empty. With the exception of the Mansion at the edge of the road, nothing of value is inside any of them. You may simply describe what the players see inside.&lt;/p&gt;
+&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
+&lt;p&gt;“The home is well furnished and immaculately clean. In fact, it’s eerily spotless. There are no occupants and is just as devoid of life as the town outside.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;After the players have explored an empty house or two, have them roll perception checks as they gather information on what to do next. Any player who successfully rolls the &lt;strong&gt;DC 11 Perception check&lt;/strong&gt; needed for this, see a strange flicker. Just for an instant they see the well built homes they are surrounded by become ruined and collapsed. The cobblestone road they stand upon becomes a dirt strip covered with weeds. Almost as soon as they see it, it reverts back to the luxurious space it was before. The only building that didn’t change in this flicker is a large mansion at the far end of the road. Players who succeeded the earlier perception check can see this flicker continuing at routine intervals. The closer they get to this building the more constant the flickering seems.&lt;/p&gt;
+&lt;p&gt;The players can enter through the front door with ease as it is also unlocked. When they do they find what is likely the most opulent interior they’ve ever seen. The mansion is filled with expensive artwork, pottery, and tapestries. It is brightly lit by wall sconces, candelabras and chandeliers. The players can hear muffled voices coming from further inside the mansion although they aren’t certain where. You may use your discretion to determine how (and when) they find the source of these voices. If the players attempt to pickup or take anything from the mansion all of them are immediately teleported to where they first awoke in the town. They once again awaken from unconscious – unharmed, but woozy. Eventually, as they explore the mansion they will enter a large dining area. As they enter this space they’ll find the source of the voices are coming from a well dressed, well groomed man arguing with a large, red-skinned, heavily muscled creature with pointy teeth and short horns protruding from its bald head. Players can roll a &lt;strong&gt;DC 15 Arcana or Religion check&lt;/strong&gt; (you may let them choose) to ascertain that this large being is in fact an &lt;a href="/monster/efreeti"&gt;Efreeti&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The man and Efreeti will finally notice that the players have entered. The man will be shocked and upset. The Efreeti will chuckle rather heartily.&lt;/p&gt;
+&lt;p&gt;He puts his hands wide and says, &lt;em&gt;&amp;quot;You see Barlow, you wanted the perfect town and the perfect town needs heroes, doesn’t it?”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He continues to laugh as the man, Barlow, angrily reprimands the Efreeti, &lt;em&gt;“You know this isn’t what I meant, now get rid of these idiots like you did the rest.”&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“Your wish is my command,”&lt;/em&gt; the Efreeti ominously says while laughing manically.&lt;/p&gt;
+</content>
   </page>
-  <page id="2812c3b1-73fe-53a3-88a1-0e12e5ee6901" parent="863a8340-4b22-5942-8c2a-44eb49ba78ce">
+  <page id="02b9487b-081b-588d-b8ca-37f58f9eccb7" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
     <name>Lost in a Cave</name>
     <slug>lost-in-a-cave</slug>
-    <content>&lt;h2 id="lost-in-a-cave"&gt;Lost in a Cave&lt;/h2&gt;&lt;p&gt;The mansion suddenly disappears around the party, including the floor. The entire group falls through complete blackness for a moment, but the feeling of weightlessness is suddenly met with oddly squishy ground below them and rocky cavern walls around them. Have everyone in the party roll a &lt;strong&gt;DC 18 Dexterity Saving Throw&lt;/strong&gt;; any who fail are knocked prone. There is also no source of lighting in this space and only creatures who provide a light source or have Darkvision can see.&lt;/p&gt;&lt;blockquote&gt;
+    <content>&lt;h2 id="lost-in-a-cave"&gt;Lost in a Cave&lt;/h2&gt;
+&lt;p&gt;The mansion suddenly disappears around the party, including the floor. The entire group falls through complete blackness for a moment, but the feeling of weightlessness is suddenly met with oddly squishy ground below them and rocky cavern walls around them. Have everyone in the party roll a &lt;strong&gt;DC 18 Dexterity Saving Throw&lt;/strong&gt;; any who fail are knocked prone. There is also no source of lighting in this space and only creatures who provide a light source or have Darkvision can see.&lt;/p&gt;
+&lt;div class="blockquote-paper-wrap"&gt;&lt;blockquote class="paper"&gt;
 &lt;p&gt;&lt;strong&gt;CAVE FEATURES&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Ceilings.&lt;/strong&gt;&lt;/em&gt; The cielings of the caverns are irregular and naturally made. While there is some flucuation, the height of the ceilings throughought the caverns are between 10 and 12 feet.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Light.&lt;/strong&gt;&lt;/em&gt; No areas of the cavern, excluding the cistern are lit. Players will either need Darkvision or their own source of light to be able to see.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tunnels.&lt;/strong&gt;&lt;/em&gt; The separate caverns are connected by narrow tunnels. The walls of these tunnels are irreguluar but typically force players to walk single-file through them.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tunnels.&lt;/strong&gt;&lt;/em&gt; The separate caverns are connected by narrow tunnels. The walls of these tunnels are irreguluar but typically force players to walk single-file through them.&lt;br&gt;
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="9b60c0e9-5cf3-594b-9f20-853d39f778c1" parent="48c2973d-4428-5301-85ef-c81465e2854d">
+  <page id="1c8a8dd7-7778-53a3-b69a-ebce0f35994f" parent="271184eb-fde5-577b-81fe-1cf5e0a0abfc">
     <name>The Town’s Underground - Locations Description</name>
     <slug>the-towns-underground-locations-description</slug>
-    <content>&lt;h1 id="the-town%E2%80%99s-underground---locations-description"&gt;The Town&amp;#x2019;s Underground - Locations Description&lt;/h1&gt;&lt;blockquote&gt;
+    <content>&lt;h1 id="the-town%E2%80%99s-underground---locations-description"&gt;The Town&amp;#x2019;s Underground - Locations Description&lt;/h1&gt;&lt;div class="blockquote-wrap"&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;How do I see the locations?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;To the right of the page, there is a collapseable arrow.  Tap it, and it will expand to show you all the locations.  In EncounterPlus, you can next anything under, well, anything!  Maps, encounters and pages can all be nested this way, so you can organized your adventure however you want.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;The following is a list of the locations inside the cavern.&lt;/p&gt;&lt;p&gt;&lt;img src="grid_map_1.png" alt="map"&gt;&lt;/p&gt;</content>
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src="under_town_cistern.png" alt="map" width="400"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href&gt;Load the Map&lt;/a&gt;&lt;/p&gt;&lt;h4 id="the-following-is-a-list-of-the-locations-inside-the-cavern."&gt;The following is a list of the locations inside the cavern.&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="snake-pit---starting-area"&gt;C1. Snake Pit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="dead-villagers"&gt;C2. Dead Villagers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="cavern-junction"&gt;C3. Cavern Junction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="imprisoned-survivor"&gt;C4. Imprisoned Survivors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="secret-tunnel-and-dead-end"&gt;C5. Secret Tunnel and Dead End&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="the-cistern"&gt;C6. The Cistern&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
   </page>
-  <page id="ad8f7e41-e13d-5e8d-8b44-e89e7ac3dfcf" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="5dec353f-cfdf-5e03-a946-c7521cc99ac0" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C1. Snake Pit - Starting Area</name>
     <slug>c1-snake-pit-starting-area</slug>
-    <content>&lt;h2 id="c1.-snake-pit---starting-area"&gt;C1. Snake Pit - Starting Area&lt;/h2&gt;&lt;p&gt;Unfortunately, the unstable ground they landed on turns out to be a pit of snakes and insects.&lt;/p&gt;&lt;p&gt;As soon as the party lands in this space read the following aloud:&lt;/p&gt;&lt;blockquote class="read"&gt;
+    <content>&lt;h2 id="c1.-snake-pit---starting-area"&gt;C1. Snake Pit - Starting Area&lt;/h2&gt;&lt;p&gt;Unfortunately, the unstable ground they landed on turns out to be a pit of snakes and insects.&lt;/p&gt;&lt;p&gt;As soon as the party lands in this space read the following aloud:&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;The area is completely dark, there is no clear indication of where the party is and the sudden landing is very disorienting. As you squirm on this strangley unstable floor you suddenly hear a violent hiss as something lunges from the darkness. For those with darkvision or a light source you see you are in a dark cavern about 25 feet wide with a 10 foot ceiling. Below you, you can see the slithering bodies of dozens and dozens of snakes.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;After reading this the party enters combat with one &lt;a href="/monster/giant-poisonous-snake"&gt;Giant Poisonous Snake&lt;/a&gt; and two &lt;a href="/monster/poisonous-snake"&gt;Poisonous Snakes&lt;/a&gt;. Remember that any who failed the earlier save must begin combat in the prone position.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: to run combat in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;p&gt;There are dozens more snakes and insects in this space, but thankfully only these creatures attacked the players. You can use the remaining critters as a means to goad the players forward. While there is nothing of value in this area, the cavern is filled with decaying corpses and littered with dismembered limbs. There appears to be only one way in or out of this cavern.&lt;/p&gt;</content>
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;After reading this the party enters combat with one &lt;a href="/monster/giant-poisonous-snake"&gt;Giant Poisonous Snake&lt;/a&gt; and two &lt;a href="/monster/poisonous-snake"&gt;Poisonous Snakes&lt;/a&gt;. Remember that any who failed the earlier save must begin combat in the prone position.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: to run combat in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;p&gt;There are dozens more snakes and insects in this space, but thankfully only these creatures attacked the players. You can use the remaining critters as a means to goad the players forward. While there is nothing of value in this area, the cavern is filled with decaying corpses and littered with dismembered limbs. There appears to be only one way in or out of this cavern.&lt;/p&gt;</content>
   </page>
-  <page id="99f7a5b5-5921-57e7-9de1-535fe8f69c2c" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="0a256132-2ffd-537f-b89e-b30daa22c6e5" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C2. Dead Villagers</name>
     <slug>c2-dead-villagers</slug>
-    <content>&lt;h2 id="c2.-dead-villagers"&gt;C2. Dead Villagers&lt;/h2&gt;&lt;p&gt;An uneven tunnel connects this space with the cavern in &lt;a href="c1-snake-pit-starting-area"&gt;area C1&lt;/a&gt;. In this cavern the players find three dead villagers shackled to the rock wall. The players can choose to search these bodies. A &lt;strong&gt;DC 12 Investigation Check&lt;/strong&gt; will turn up about 20 gold pieces and a letter crumpled in one of their pockets.&lt;/p&gt;&lt;blockquote&gt;
+    <content>&lt;h2 id="c2.-dead-villagers"&gt;C2. Dead Villagers&lt;/h2&gt;&lt;p&gt;An uneven tunnel connects this space with the cavern in &lt;a href="c1-snake-pit-starting-area"&gt;area C1&lt;/a&gt;. In this cavern the players find three dead villagers shackled to the rock wall. The players can choose to search these bodies. A &lt;strong&gt;DC 12 Investigation Check&lt;/strong&gt; will turn up about 20 gold pieces and a letter crumpled in one of their pockets.&lt;/p&gt;&lt;div class="blockquote-paper-wrap"&gt;&lt;blockquote class="paper"&gt;
 &lt;p&gt;&lt;strong&gt;LETTER TO BARLOW&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Barlow,&lt;/p&gt;
 &lt;p&gt;What have you wrought on us?&lt;/p&gt;
@@ -287,19 +108,21 @@
 &lt;p&gt;I hope you drown in your wealth and power.&lt;/p&gt;
 &lt;p&gt;Die alone.&lt;/p&gt;
 &lt;p&gt;E.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Secret.&lt;/strong&gt;&lt;/em&gt; The most obvious exit from this cavern is another tunnel heading northeast. However, the players may also find a secret passage on the Northwest side of the cavern. The players may come across it if they roll a &lt;strong&gt;DC 18&lt;/strong&gt; or higher when they were investigating the chained corpses. If they roll high enough, they&amp;#x2019;ll find a camouflaged button above one of the metal hooks holding the shackles. When pushed, a secret passage nearby scrapes open on the Northeastern wall.&lt;/p&gt;</content>
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Secret.&lt;/strong&gt;&lt;/em&gt; The most obvious exit from this cavern is another tunnel heading northeast. However, the players may also find a secret passage on the Northwest side of the cavern. The players may come across it if they roll a &lt;strong&gt;DC 18&lt;/strong&gt; or higher when they were investigating the chained corpses. If they roll high enough, they&amp;#x2019;ll find a camouflaged button above one of the metal hooks holding the shackles. When pushed, a secret passage nearby scrapes open on the Northeastern wall.&lt;/p&gt;</content>
   </page>
-  <page id="6ecff5c6-ed87-5955-9e02-4a687bdf317d" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="19aa7eb8-a811-5924-a2a9-8a85a6f43ca2" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C3. Cavern Junction</name>
     <slug>c3-cavern-junction</slug>
-    <content>&lt;h2 id="c3.-cavern-junction"&gt;C3. Cavern Junction&lt;/h2&gt;&lt;p&gt;If the players take the clearly marked exit, they head down a tunnel that functions as a junction point for the cavern system. About thirty feet into this tunnel the party finds themselves at a crossroads with paths leading in all four directions. Right before the party reaches the intersection though, have them roll a &lt;strong&gt;DC 16 perception check&lt;/strong&gt;. If they succeed, they spot a five-foot square patch of ground that is a slightly different color than the rest of the pathway. If they do not notice it, the first player in the marching order falls through an illusory floor into a &lt;strong&gt;15 foot pit trap suffering 1d10 bludgeoning damage&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Once at the intersection and after the pit trap you may read the following aloud to the party:&lt;/p&gt;&lt;blockquote class="read"&gt;
+    <content>&lt;h2 id="c3.-cavern-junction"&gt;C3. Cavern Junction&lt;/h2&gt;&lt;p&gt;If the players take the clearly marked exit, they head down a tunnel that functions as a junction point for the cavern system. About thirty feet into this tunnel the party finds themselves at a crossroads with paths leading in all four directions. Right before the party reaches the intersection though, have them roll a &lt;strong&gt;DC 16 perception check&lt;/strong&gt;. If they succeed, they spot a five-foot square patch of ground that is a slightly different color than the rest of the pathway. If they do not notice it, the first player in the marching order falls through an illusory floor into a &lt;strong&gt;15 foot pit trap suffering 1d10 bludgeoning damage&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Once at the intersection and after the pit trap you may read the following aloud to the party:&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;To the West is a narrow passage that seems to be a dead end. To the East is a small cavern, from which the party can hear crying. To the North, the path ends after about 10 feet and is blocked by a closed stone double-door.&lt;/p&gt;
-&lt;/blockquote&gt;</content>
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="51e9a672-f70f-5d79-99ef-6cdc89e540a4" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="d9f03120-0451-536e-a59a-0a2c452c032e" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C4. Imprisoned Survivors</name>
     <slug>c4-imprisoned-survivors</slug>
-    <content>&lt;h2 id="c4.-imprisoned-survivors"&gt;C4. Imprisoned Survivors&lt;/h2&gt;&lt;p&gt;The eastern path takes the players to a smaller cavern in this underground space. In this cavern, packed tightly together, there are about eight chained villagers. If the party tries to speak to the villagers, one of the young women in the group will speak up. She will introduce herself as Vreya and will explain as much as she knows with the party. See the &lt;em&gt;&lt;strong&gt;&amp;#x201C;What Vreya Knows,&amp;#x201D;&lt;/strong&gt;&lt;/em&gt; breakout for more detail.&lt;/p&gt;&lt;blockquote&gt;
+    <content>&lt;h2 id="c4.-imprisoned-survivors"&gt;C4. Imprisoned Survivors&lt;/h2&gt;&lt;p&gt;The eastern path takes the players to a smaller cavern in this underground space. In this cavern, packed tightly together, there are about eight chained villagers. If the party tries to speak to the villagers, one of the young women in the group will speak up. She will introduce herself as Vreya and will explain as much as she knows with the party. See the &lt;em&gt;&lt;strong&gt;&amp;#x201C;What Vreya Knows,&amp;#x201D;&lt;/strong&gt;&lt;/em&gt; breakout for more detail.&lt;/p&gt;&lt;div class="blockquote-paper-wrap"&gt;&lt;blockquote class="paper"&gt;
 &lt;p&gt;&lt;strong&gt;WHAT VREYA KNOWS&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -317,25 +140,24 @@
 &lt;li&gt;
 &lt;p&gt;Periodically, horrible creatures appear in puffs of smoke and take away villagers. None return.&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The players can try to free the villagers here. If a player has thieves tools a &lt;strong&gt;DC 15 check&lt;/strong&gt; with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe.&lt;/p&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;</content>
+&lt;p&gt;The players can try to free the villagers here. If a player has thieves tools a &lt;strong&gt;DC 15 check&lt;/strong&gt; with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
   </page>
-  <page id="0be5b0b8-072b-51d7-889f-6485248a3208" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="6594b8ad-7eb7-56a5-9d6c-0481b1ddbb27" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C5. Secret Tunnel and Dead End</name>
     <slug>c5-secret-tunnel-and-dead-end</slug>
     <content>&lt;h2 id="c5.-secret-tunnel-and-dead-end"&gt;C5. Secret Tunnel and Dead End&lt;/h2&gt;&lt;p&gt;The path westward is in fact a dead end from this direction of travel. It terminates at a secret exit that cannot be opened from the eastern side. A &lt;strong&gt;DC 18 Perception check&lt;/strong&gt; shows that there are cracks in the cavern wall that indicate a passage, but there is no means to activate whatever this is from this side. This is essentially meant to help the players realize they may have missed something earlier and practice some more game mechanics in the process.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Secret Tunnel&lt;/strong&gt;&lt;/em&gt; - the party may use this to bypass the junction. It also give them the option to sneak into the Cistern (C6) without being noticed.&lt;/p&gt;</content>
   </page>
-  <page id="c9f04d45-9975-5ca0-a756-cc1f755a2c9a" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="6b80bd67-3f0a-52ac-9658-19e267b34d61" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C6. The Cistern</name>
     <slug>c6-the-cistern</slug>
-    <content>&lt;h2 id="c6.-the-cistern"&gt;C6. The Cistern&lt;/h2&gt;&lt;p&gt;If the players continue straight up the tunnel they will find themselves in front a pair of closed stone doors. Thankfully, the doors aren&amp;#x2019;t locked and simply need to be pushed open. However, the doors are quite heavy and scrape loudly along the floor as they open.&lt;/p&gt;&lt;p&gt;As the players arrive in the Cistern describe what they as follows:&lt;/p&gt;&lt;blockquote class="read"&gt;
+    <content>&lt;h2 id="c6.-the-cistern"&gt;C6. The Cistern&lt;/h2&gt;&lt;p&gt;If the players continue straight up the tunnel they will find themselves in front a pair of closed stone doors. Thankfully, the doors aren&amp;#x2019;t locked and simply need to be pushed open. However, the doors are quite heavy and scrape loudly along the floor as they open.&lt;/p&gt;&lt;p&gt;As the players arrive in the Cistern describe what they as follows:&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;The large room you enter is very different from the rocky tunnels you&amp;#x2019;ve just exited from. Most noticeably, this space appears to be man-made. The walls are built from rectangular stones and mortar; the floors are also covered in smooth paving stones. The space is rather well lit with natural light. The light is coming in from a large circular opening in the ceiling. A metal ladder is attached to the ground and connects to the circular opening above. The observant ones among you realize this is an empty cistern and is, almost certainly, directly below the town you were exploring previously.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;In the cistern, you see a grisly sight. Toward the center of the room, the man from the mansion, is writhing on the floor screaming. He is covered in rats who are constantly biting and nibbling on him.&lt;/p&gt;
-&lt;/blockquote&gt;&lt;p&gt;The players can actually enter this space in one of two ways &amp;#x2014; and depending on how they do so will determine how the final encounter begins. If the players entered using the large doors at the main entrance the denizens of this space are immediately aware of their presence and are hostile to the players. The players may also find the secret tunnel on the western side of caverns. If the players use this point of entry they can overhear the imp, Traiq, mocking Barlow. Additionally, the players may use this secret area to their advantage and sneakily ambush the combatants in this room. Have the players roll a &lt;strong&gt;DC 11 Stealth check&lt;/strong&gt;. If half the group succeeds you may consider them hidden in this space.&lt;/p&gt;&lt;p&gt;If the players are unnoticed, one of the rats jumps up and shape shifts into an &lt;a href="monster/imp"&gt;imp&lt;/a&gt;. This imp begins beating Barlow with the now empty Efreeti Bottle, and taunts him as he is being tortured.&lt;/p&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;The players can actually enter this space in one of two ways &amp;#x2014; and depending on how they do so will determine how the final encounter begins. If the players entered using the large doors at the main entrance the denizens of this space are immediately aware of their presence and are hostile to the players. The players may also find the secret tunnel on the western side of caverns. If the players use this point of entry they can overhear the imp, Traiq, mocking Barlow. Additionally, the players may use this secret area to their advantage and sneakily ambush the combatants in this room. Have the players roll a &lt;strong&gt;DC 11 Stealth check&lt;/strong&gt;. If half the group succeeds you may consider them hidden in this space.&lt;/p&gt;&lt;p&gt;If the players are unnoticed, one of the rats jumps up and shape shifts into an &lt;a href="/monster/imp"&gt;imp&lt;/a&gt;. This imp begins beating Barlow with the now empty Efreeti Bottle, and taunts him as he is being tortured.&lt;/p&gt;&lt;div class="blockquote-paper-wrap"&gt;&lt;blockquote class="paper"&gt;
 &lt;p&gt;&lt;strong&gt;TRAIQ&amp;#x2019;S TAUNTS&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -348,19 +170,15 @@
 &lt;p&gt;What kind of idiot thinks they can outsmart an Efreeti.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;&lt;p&gt;When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the &lt;a href="monster/swarm-of-rats"&gt;Swarm of Rats&lt;/a&gt; to leave Barlow and attack the players.&lt;/p&gt;&lt;h3 id="the-lesser-of-two-evils"&gt;THE LESSER OF TWO EVILS&lt;/h3&gt;&lt;p&gt;When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He&amp;#x2019;ll share how selfish he was and how he abused the town to profit himself. He&amp;#x2019;ll also share that, worst of all, Barlow has now freed an evil &lt;a href="monster/efreeti"&gt;Efreeti&lt;/a&gt; on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake.&lt;/p&gt;&lt;p&gt;The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: Mark a creature friendly in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You may use the &lt;a href="monster/noble"&gt;Noble&lt;/a&gt; stat block for Barlow, the mayor while in combat.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Treasure.&lt;/strong&gt;&lt;/em&gt; When the battle is over the players are rewarded with two items. First, the now empty &lt;a href="item/efreeti-bottle"&gt;Efreeti Bottle&lt;/a&gt;; which, while empty, is still very valuable &lt;em&gt;(2500 GP worth)&lt;/em&gt; and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the &lt;a href="item/headband-of-intellect"&gt;Headband of Intellect&lt;/a&gt; and he will either gift it to the party or they can retrieve it from his corpse after the battle.&lt;/p&gt;</content>
+&lt;p&gt;Feel free to improvise other taunts as well&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the &lt;a href="/monster/swarm-of-rats"&gt;Swarm of Rats&lt;/a&gt; to leave Barlow and attack the players.&lt;/p&gt;&lt;h3 id="the-lesser-of-two-evils"&gt;THE LESSER OF TWO EVILS&lt;/h3&gt;&lt;p&gt;When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He&amp;#x2019;ll share how selfish he was and how he abused the town to profit himself. He&amp;#x2019;ll also share that, worst of all, Barlow has now freed an evil &lt;a href="/monster/efreeti"&gt;Efreeti&lt;/a&gt; on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake.&lt;/p&gt;&lt;p&gt;The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: Mark a creature friendly in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You may use the &lt;a href="/monster/noble"&gt;Noble&lt;/a&gt; stat block for Barlow, the mayor while in combat.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Treasure.&lt;/strong&gt;&lt;/em&gt; When the battle is over the players are rewarded with two items. First, the now empty &lt;a href="/item/efreeti-bottle"&gt;Efreeti Bottle&lt;/a&gt;; which, while empty, is still very valuable &lt;em&gt;(2500 GP worth)&lt;/em&gt; and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the &lt;a href="/item/headband-of-intellect"&gt;Headband of Intellect&lt;/a&gt; and he will either gift it to the party or they can retrieve it from his corpse after the battle.&lt;/p&gt;</content>
   </page>
-  <page id="8297560f-451e-5140-b55e-1950c0399cb4" parent="9b60c0e9-5cf3-594b-9f20-853d39f778c1">
+  <page id="18430769-cdc4-54f4-ab8b-03da5fd28999" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>Ending the Mission</name>
     <slug>ending-the-mission</slug>
     <content>&lt;h2 id="ending-the-mission"&gt;Ending the Mission&lt;/h2&gt;&lt;p&gt;After the party exits the cistern, they can finish the mission by speaking with either Traig or Barlow, whomever survived. You may also use Vreya or any of the other captured villagers if the party killed both imp and the mayor. The surviving creature will thank the party for their help (either in saving Barlow&amp;#x2019;s life, or freeing the imp from its servitude). They continue to inform the players that some of the townspeople might have survived and the town may return to normal with time. If the players rescued Vreya and the villagers below, you can point out that they are slowly exiting the cistern now. If the players dialogue with them they will be shaken and mostly silent, but they will express deep gratitude toward them.&lt;/p&gt;&lt;p&gt;The creature the party saved will pull the party aside at this point as well. Neither of them want to be close to the townspeople for long given the situation. They will remind the party that an Efreeti is still on the loose and it is bound to create catastrophe. As promised earlier they will offer to remain with the party and attempt to re-capture it with them &amp;#x2013; although, their motives may not be clear at this point.&lt;/p&gt;&lt;p&gt;Before the party can decide how to proceed the mission ends here.&lt;/p&gt;</content>
-  </page>
-  <page id="c519896e-4d5a-59dc-9731-678421bc9efc">
-    <name>You wished for Adventure!</name>
-    <slug>you-wished-for-adventure</slug>
-    <content>&lt;h1 id="you-wished-for-adventure!"&gt;You wished for Adventure!&lt;/h1&gt;&lt;p&gt;&lt;img src="cover.jpg" alt="cover"&gt;&lt;/p&gt;&lt;h3 id="a-first-level-adventure-for-d%26d-5e"&gt;A first-level adventure for D&amp;amp;D 5E&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;SUMMARY:&lt;/strong&gt;
-A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;&lt;p&gt;This adventure lands the players smack dab in the middle of someone else&amp;#x2019;s wish spell. It&amp;#x2019;s scaled for 4-5 players at 1st level.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;ADVENTURE DESIGNER:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Nate Abdo&lt;/p&gt;&lt;p&gt;&lt;em&gt;other credits here&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;DUNGEONS &amp;amp; DRAGONS, D&amp;amp;D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player&amp;#x2019;s Handbook, Monster Manual, Dungeon Master&amp;#x2019;s Guide, D&amp;amp;D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.&lt;/em&gt;&lt;/p&gt;</content>
   </page>
 </module>

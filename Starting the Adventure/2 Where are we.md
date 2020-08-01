@@ -1,7 +1,7 @@
 ---
-name: Where Are We?
+name: Where are we
 slug: where-are-we
-pagebreak: h1,h2
+
 ---
 
 ## Where are we?

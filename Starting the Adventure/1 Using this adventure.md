@@ -1,7 +1,7 @@
 ---
-name: Using this adventure
+name: Using this Adventure
 slug: using-this-adventure
-pagebreak: h1,h2
+
 ---
 
 # Starting the Adventure

@@ -1,13 +1,12 @@
 ---
 name: You Wished For Adventure
-slug: you-wished-for-adventure
-pagebreak: h1,h2
+slug: you-wished-for-adventure-module
+order: 1
 ---
 
+![cover](hero.png){.size-cover}
+
 # You wished for Adventure!
-
-![cover](cover.jpg)
-
 ### A first-level adventure for D&D 5E 
 
 **SUMMARY:**

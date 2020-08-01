@@ -1,7 +1,8 @@
 ---
-name: The Town's Underground
-slug: the-towns-underground
-pagebreak: h1,h2
+name: Under the Town
+slug: under-the-town
+module-pagebreaks: h1, h2
+pdf-pagebreaks: h1
 ---
 
 # The Town's Underground - Locations Description
@@ -10,9 +11,18 @@ pagebreak: h1,h2
 >
 >To the right of the page, there is a collapseable arrow.  Tap it, and it will expand to show you all the locations.  In EncounterPlus, you can next anything under, well, anything!  Maps, encounters and pages can all be nested this way, so you can organized your adventure however you want. 
 
-The following is a list of the locations inside the cavern.
+![map](under_town_cistern.png =400x)
 
-![map](grid_map_1.png)
+[Load the Map]()
+
+#### The following is a list of the locations inside the cavern.
+
+* [C1. Snake Pit](snake-pit---starting-area)
+* [C2. Dead Villagers](dead-villagers)
+* [C3. Cavern Junction](cavern-junction)
+* [C4. Imprisoned Survivors](imprisoned-survivor)
+* [C5. Secret Tunnel and Dead End](secret-tunnel-and-dead-end)
+* [C6. The Cistern](the-cistern)
 
 ## C1. Snake Pit - Starting Area 
 
@@ -47,6 +57,7 @@ An uneven tunnel connects this space with the cavern in [area C1](c1-snake-pit-s
 > Die alone. 
 > 
 > E.
+{.paper}
 
 ***Secret.*** The most obvious exit from this cavern is another tunnel heading northeast. However, the players may also find a secret passage on the Northwest side of the cavern. The players may come across it if they roll a **DC 18** or higher when they were investigating the chained corpses. If they roll high enough, they’ll find a camouflaged button above one of the metal hooks holding the shackles. When pushed, a secret passage nearby scrapes open on the Northeastern wall. 
 
@@ -63,19 +74,20 @@ Once at the intersection and after the pit trap you may read the following aloud
 
 The eastern path takes the players to a smaller cavern in this underground space. In this cavern, packed tightly together, there are about eight chained villagers. If the party tries to speak to the villagers, one of the young women in the group will speak up. She will introduce herself as Vreya and will explain as much as she knows with the party. See the ***“What Vreya Knows,”*** breakout for more detail. 
 
->**WHAT VREYA KNOWS**
+> **WHAT VREYA KNOWS**
 > 
-> * Vreya shares that after the recently elected Mayor took office he began charging exorbitant taxes. 
+> - Vreya shares that after the recently elected Mayor took office he began charging exorbitant taxes. 
 > 
-> * The mayor, Barlow, said he was trying to make the town better, but it seemed like he wasn’t investing anything new into the town. 
+> - The mayor, Barlow, said he was trying to make the town better, but it seemed like he wasn’t investing anything new into the town. 
 > 
-> * Apparently Barlow had been trying to amass wealth to purchase some magical means of cementing the town’s position of wealth and power.
+> - Apparently Barlow had been trying to amass wealth to purchase some magical means of cementing the town’s position of wealth and power.
 > 
-> * Vreya, along with the other townspeople here, were magically teleported to this space and don’t know where they are or how to get out. 
+> - Vreya, along with the other townspeople here, were magically teleported to this space and don’t know where they are or how to get out. 
 > 
-> * Periodically, horrible creatures appear in puffs of smoke and take away villagers. None return. 
+> - Periodically, horrible creatures appear in puffs of smoke and take away villagers. None return. 
 > 
-> * The players can try to free the villagers here. If a player has thieves tools a **DC 15 check** with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe. 
+>The players can try to free the villagers here. If a player has thieves tools a **DC 15 check** with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe. 
+{.paper}
 
 ## C5. Secret Tunnel and Dead End
 
@@ -91,36 +103,39 @@ If the players continue straight up the tunnel they will find themselves in fron
 As the players arrive in the Cistern describe what they as follows: 
 	
 > The large room you enter is very different from the rocky tunnels you've just exited from. Most noticeably, this space appears to be man-made. The walls are built from rectangular stones and mortar; the floors are also covered in smooth paving stones. The space is rather well lit with natural light. The light is coming in from a large circular opening in the ceiling. A metal ladder is attached to the ground and connects to the circular opening above. The observant ones among you realize this is an empty cistern and is, almost certainly, directly below the town you were exploring previously.
-{.read}
-
+> 
 > In the cistern, you see a grisly sight. Toward the center of the room, the man from the mansion, is writhing on the floor screaming. He is covered in rats who are constantly biting and nibbling on him. 
 {.read}
 	
 The players can actually enter this space in one of two ways — and depending on how they do so will determine how the final encounter begins. If the players entered using the large doors at the main entrance the denizens of this space are immediately aware of their presence and are hostile to the players. The players may also find the secret tunnel on the western side of caverns. If the players use this point of entry they can overhear the imp, Traiq, mocking Barlow. Additionally, the players may use this secret area to their advantage and sneakily ambush the combatants in this room. Have the players roll a **DC 11 Stealth check**. If half the group succeeds you may consider them hidden in this space.
 	
-If the players are unnoticed, one of the rats jumps up and shape shifts into an [imp](monster/imp). This imp begins beating Barlow with the now empty Efreeti Bottle, and taunts him as he is being tortured.
+If the players are unnoticed, one of the rats jumps up and shape shifts into an [imp](/monster/imp). This imp begins beating Barlow with the now empty Efreeti Bottle, and taunts him as he is being tortured.
 
 > **TRAIQ’S TAUNTS**
 > 
-> * What a pathetic master you were Barlow.
+> - What a pathetic master you were Barlow.
 > 
-> * You thought you could make me your slave, did you? 
+> - You thought you could make me your slave, did you? 
 > 
-> * What kind of idiot thinks they can outsmart an Efreeti. 
+> - What kind of idiot thinks they can outsmart an Efreeti. 
+>
+> Feel free to improvise other taunts as well
+{.paper}
 
-When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the [Swarm of Rats](monster/swarm-of-rats) to leave Barlow and attack the players. 
+
+When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the [Swarm of Rats](/monster/swarm-of-rats) to leave Barlow and attack the players. 
 	
 ### THE LESSER OF TWO EVILS
 	
-When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He’ll share how selfish he was and how he abused the town to profit himself. He’ll also share that, worst of all, Barlow has now freed an evil [Efreeti](monster/efreeti) on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake. 
+When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He’ll share how selfish he was and how he abused the town to profit himself. He’ll also share that, worst of all, Barlow has now freed an evil [Efreeti](/monster/efreeti) on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake. 
 	
 The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other. 
 
 `LEARN HOW: Mark a creature friendly in Encounter+`
 	
-* ***NOTE:** You may use the [Noble](monster/noble) stat block for Barlow, the mayor while in combat.*
+* ***NOTE:** You may use the [Noble](/monster/noble) stat block for Barlow, the mayor while in combat.*
 
-***Treasure.*** When the battle is over the players are rewarded with two items. First, the now empty [Efreeti Bottle](item/efreeti-bottle); which, while empty, is still very valuable *(2500 GP worth)* and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the [Headband of Intellect](item/headband-of-intellect) and he will either gift it to the party or they can retrieve it from his corpse after the battle.
+***Treasure.*** When the battle is over the players are rewarded with two items. First, the now empty [Efreeti Bottle](/item/efreeti-bottle); which, while empty, is still very valuable *(2500 GP worth)* and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the [Headband of Intellect](/item/headband-of-intellect) and he will either gift it to the party or they can retrieve it from his corpse after the battle.
 
 ## Ending the Mission  
 

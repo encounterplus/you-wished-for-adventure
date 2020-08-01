@@ -1,7 +1,7 @@
 ---
 name: Lost in a Cave
 slug: lost-in-a-cave
-pagebreak: h1,h2
+
 ---
 
 ## Lost in a Cave
@@ -16,5 +16,5 @@ The mansion suddenly disappears around the party, including the floor. The entir
 > ***Light.*** No areas of the cavern, excluding the cistern are lit. Players will either need Darkvision or their own source of light to be able to see. 
 > 
 > ***Tunnels.*** The separate caverns are connected by narrow tunnels. The walls of these tunnels are irreguluar but typically force players to walk single-file through them.  
-> 
-> 
+{.paper}
+
