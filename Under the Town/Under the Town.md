@@ -36,7 +36,8 @@ As soon as the party lands in this space read the following aloud:
 	
 After reading this the party enters combat with one [Giant Poisonous Snake](/monster/giant-poisonous-snake) and two [Poisonous Snakes](/monster/poisonous-snake). Remember that any who failed the earlier save must begin combat in the prone position. 
 
-`LEARN HOW: to run combat in Encounter+`
+> [**LEARN HOW:** to run combat in Encounter+](running-encounters)
+> {.flowchart}
 
 There are dozens more snakes and insects in this space, but thankfully only these creatures attacked the players. You can use the remaining critters as a means to goad the players forward. While there is nothing of value in this area, the cavern is filled with decaying corpses and littered with dismembered limbs. There appears to be only one way in or out of this cavern.
 
@@ -131,7 +132,7 @@ When the players kill the rats off, Traiq will address the party. He will try to
 	
 The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other. 
 
-`LEARN HOW: Mark a creature friendly in Encounter+`
+> [LEARN HOW: Mark a creature friendly in Encounter+](marking_creatures_as_friendly) {.flowchart}
 	
 * ***NOTE:** You may use the [Noble](/monster/noble) stat block for Barlow, the mayor while in combat.*
 

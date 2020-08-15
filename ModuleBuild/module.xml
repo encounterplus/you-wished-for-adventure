@@ -7,11 +7,15 @@
   <code/>
   <category>adventure</category>
   <image>cover.png</image>
-  <group id="a8cbd673-468f-55dd-8bd1-e37615a5138b">
+  <group id="f1254ae6-5da7-50d2-b0b9-6cf9cf8b58d3" sort="4">
+    <name>Learn How</name>
+    <slug>learn-how-you-wished-for-adventure</slug>
+  </group>
+  <group id="a8cbd673-468f-55dd-8bd1-e37615a5138b" sort="2">
     <name>Starting The Adventure</name>
     <slug>you-wished-for-adventure-starting-the-adventure</slug>
   </group>
-  <group id="271184eb-fde5-577b-81fe-1cf5e0a0abfc">
+  <group id="271184eb-fde5-577b-81fe-1cf5e0a0abfc" sort="3">
     <name>Under the Town</name>
     <slug>you-wished-for-adventure-under-the-town</slug>
   </group>
@@ -30,14 +34,208 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;DUNGEONS &amp;amp; DRAGONS, D&amp;amp;D, Wizards of the Coast, Forgotten Realms, the dragon ampersand, Player’s Handbook, Monster Manual, Dungeon Master’s Guide, D&amp;amp;D Adventurers League, all other Wizards of the Coast product names, and their respective logos are trademarks of Wizards of the Coast in the USA and other countries. All characters and their distinctive likenesses are property of Wizards of the Coast. This material is protected under the copyright laws of the United States of America. Any reproduction or unauthorized use of the material or artwork contained herein is prohibited without the express written permission of Wizards of the Coast.&lt;/em&gt;&lt;/p&gt;
 </content>
   </page>
+  <page id="d4f42afb-a216-550a-809c-41ba7bc424da" parent="f1254ae6-5da7-50d2-b0b9-6cf9cf8b58d3">
+    <name>Encounter+ Tutorial</name>
+    <slug>encounter-tutorial</slug>
+    <content>&lt;p&gt;&lt;img src="hero.png" alt="Hero Image" class="size-cover"&gt;&lt;/p&gt;&lt;h1 id="encounter%2B-tutorial"&gt;Encounter+ Tutorial&lt;/h1&gt;&lt;h5 id&gt;&lt;/h5&gt;&lt;p&gt;This tutorial for Encounter+ is meant to help you get accilmated and familiar with the virutal tabletop software. To begin this will not be a comrehensive guide on how to use every feature in this app. However, it should have enough information to get you started. It is also meant to be used along side the included module: &lt;em&gt;&lt;strong&gt;You Wished for Adventure!&lt;/strong&gt;&lt;/em&gt; For more detailed information and instructions on Encounter+ please join our community on &lt;a href&gt;Discord&lt;/a&gt;.&lt;/p&gt;&lt;h3 id="getting-started"&gt;Getting Started&lt;/h3&gt;&lt;p&gt;To begin, there are several buttons on the screen. Each one has its own purpose and functions. If ever you get lost or need a little help, start by going to the &lt;strong&gt;Help Center&lt;/strong&gt;. You can find it in the &lt;strong&gt;Settings Panel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="settings_button.png" alt="Settings"&gt;&lt;/p&gt;</content>
+  </page>
+  <page id="7c9833d9-4f7e-5d71-a33c-b19e2646a20c" parent="d4f42afb-a216-550a-809c-41ba7bc424da">
+    <name>Loading Maps from Modules</name>
+    <slug>loading-maps-from-modules</slug>
+    <content>&lt;h2 id="loading-maps-from-modules"&gt;Loading Maps from Modules&lt;/h2&gt;&lt;p&gt;Loading maps included in modules is a straightforward Process. &lt;em&gt;&lt;strong&gt;The use of Maps can be unlocked via the in-app purchase in the Settings or via the in-app Subscription.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Find the map you&amp;#x2019;d like to use in your Library (it&amp;#x2019;s the button that looks like a book)&lt;/p&gt;
+&lt;p&gt;&lt;img src="library_buttons.png" alt="Library"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the top right corner of the this page you&amp;#x2019;ll see the load button. Tap on it.&lt;/p&gt;
+&lt;p&gt;&lt;img src="load_button.png" alt="Load"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Share the map with your players.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How you share you map differs on which platform you are using&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;macOS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Click on the &lt;strong&gt;External Screen&lt;/strong&gt; Button found in the upper left corner - &lt;em&gt;it looks like an blank monitor&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="settings_button.png" alt="External Screen Mac"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on &lt;em&gt;&lt;strong&gt;Open Window&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the &lt;em&gt;&lt;strong&gt;Battle Map&lt;/strong&gt;&lt;/em&gt; section, click on &lt;strong&gt;Presenting&lt;/strong&gt;, and ensure the map you want to display is selected.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;iOS&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;First, you must have Screen Mirroring enabled and connected&lt;/p&gt;
+&lt;p&gt;&lt;img src="control_panel.jpeg" alt="Screen Mirroring" width="200"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once you are Screen Mirroring to compatible AirPlay reciever (such as an AppleTV), tap the &lt;strong&gt;External Screen&lt;/strong&gt; button in Encounter+. &lt;em&gt;It is in the top left of your screen and looks like a blank monitor.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="settings_button.png" alt="External Screen iPad"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the &lt;em&gt;&lt;strong&gt;Battle Map&lt;/strong&gt;&lt;/em&gt; section, click on &lt;strong&gt;Presenting&lt;/strong&gt;, and ensure the map you want to display is selected.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are several more options under the &lt;strong&gt;External Screen&lt;/strong&gt; menu. To learn more about them head to the &lt;strong&gt;Help Center&lt;/strong&gt; in the Settings panel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;&lt;div class="blockquote-wrap"&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;External Screen? How does it work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can use this app to display current initiative, images, or handouts in realtime during your sessions on a big screen like a TV or a data projector.&lt;/p&gt;
+&lt;p&gt;You need to have an AppleTV or other device capable of AirPlay Screen Mirroring. You can find more about AirPlay here.&lt;/p&gt;
+&lt;p&gt;Alternately, you can use an HDMI adapter and cable to directly connect to an external screen.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;</content>
+  </page>
+  <page id="0c596e96-776a-566a-af2d-1da91079d6b5" parent="d4f42afb-a216-550a-809c-41ba7bc424da">
+    <name>Showing Content and Images to Players</name>
+    <slug>showing-content-and-images-to-players</slug>
+    <content>&lt;h2 id="showing-content-and-images-to-players"&gt;Showing Content and Images to Players&lt;/h2&gt;&lt;p&gt;Encounter+ allows you to show content to your players in a variety of ways. Some of the most common things you would want to present include location images, creature art, and text handouts.&lt;/p&gt;&lt;div class="blockquote-wrap"&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;External Screen? How does it work?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can use this app to display current initiative, images, or handouts in realtime during your sessions on a big screen like a TV or a projector.&lt;/p&gt;
+&lt;p&gt;How you achieve this varies by platform. On iOS devices, such as an iPad, you need to have an AppleTV or other device capable of &lt;strong&gt;AirPlay Screen Mirroring&lt;/strong&gt; connected. (&lt;em&gt;You can do this from Control Center in iOS&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Alternately, you can use an HDMI adapter and cable to directly connect to an external screen.&lt;/p&gt;
+&lt;p&gt;On MacOS you can create a separate window using the &lt;strong&gt;External Screen&lt;/strong&gt; icon on the top right of interface.&lt;/p&gt;
+&lt;p&gt;Finally, if you are sharing content using the new WebClient method, it will also send your chosen media there as well.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;How to share an image from Encounter+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tapping on an image will bring you to separate viewer that displays just that image&lt;/p&gt;
+&lt;p&gt;&lt;img src="image_to_share.jpeg" alt="Sample Image" width="400"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the top left corner, you&amp;#x2019;ll see a button that looks like a blank display (&lt;em&gt;On iOS you may need to tap anywhere on the image again for it to show&lt;/em&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap on this button to send the image to whatever screen you are sharing with your players&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You&amp;#x2019;ll know that it is active when the Display button is filled in.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to share Text or Handouts&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If there is written material or handouts you&amp;#x2019;d like the players to see on the screen you can share it from the &lt;strong&gt;External Screen&lt;/strong&gt; button. It is located at the top left of the main screen and looks like a blank display.&lt;/p&gt;
+&lt;p&gt;&lt;img src="settings_button.png" alt="External Screen"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the &lt;em&gt;&lt;strong&gt;Overlay&lt;/strong&gt;&lt;/em&gt; section click or tap on &lt;strong&gt;Type&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select &lt;strong&gt;Handout&lt;/strong&gt; and click or tap &lt;strong&gt;Back&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You can now select the &amp;#x201C;Handout Style&amp;#x201D; as well as type or paste in the the text you&amp;#x2019;d like show the players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="6c2d9f01-005a-5e58-a4fc-197f837f9f12" parent="d4f42afb-a216-550a-809c-41ba7bc424da">
+    <name>Running Encounters</name>
+    <slug>running-encounters</slug>
+    <content>&lt;h2 id="running-encounters"&gt;Running Encounters&lt;/h2&gt;&lt;p&gt;Running encounters in Encounter+ is fun, simple and helps you focus on the exiting parts of combat.&lt;/p&gt;&lt;p&gt;Encounter+ is a great way to manage any combat encounter. It&amp;#x2019;s designed to quickly add creatures or NPCs as well Player Characters on the fly. It&amp;#x2019;s also designed to keep track of various conditions both positive and negative for each creature and Player in an encounter.&lt;/p&gt;&lt;div class="blockquote-wrap"&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;First things first, what is an encounter?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;An encounter is a collection of creatures assembled for the intent of going up against your player characters. An encounter is not part of a map. It&amp;#x2019;s a stand alone &amp;#x201C;object&amp;#x201D; that you can use with a map but techinically it is not part of the map. We keep enounters decoupled to provide flexibility. Using this approach allows you to mix and match encounters with maps. You can use any encounter with any map.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 class="text-center" id="the-basics-of-running-an-encounter-are-as-follows"&gt;The basics of running an Encounter are as follows&lt;/h4&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart text-center"&gt;
+&lt;p&gt;&lt;strong&gt;1. Create or Load an Encounter&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart-with-link text-center"&gt;
+&lt;p&gt;&lt;strong&gt;2. Start Combat&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart-with-link text-center"&gt;
+&lt;p&gt;&lt;strong&gt;3. Manage Combat&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart-with-link text-center"&gt;
+&lt;p&gt;&lt;strong&gt;4. End combat and the encounter&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;h4 id="1.-creating-an-encounter"&gt;1. Creating an Encounter&lt;/h4&gt;&lt;p&gt;There are several encounters included in the &amp;#x201C;You Wished For Adventure!&amp;#x201D; starter module. You can simply open and load these from the Library to get all of the monsters inserted in one fell swoop.
+That being said, you can also follow the steps listed below to customize encounters as well as insert the Player Characters&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Tap the Initiative Order button in the top left of the screen. It looks like a pair of upward and downard pointing arrows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="settings_button.png" alt="Settings Button"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap the &amp;#x201C;&amp;#x2026;&amp;#x201D; more button on the top right of this menu.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select &lt;strong&gt;&amp;quot;+ Insert Creatures&amp;quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Choose between the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Monster or NPC: This will open the built-in Compendium for all the creatures stored within Encounter+.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Player Character: This will add any Player Characters that have been added tothe Encounter+ Compendium.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note&lt;/strong&gt;: The only creatures included in the Compendium are from the Systems Reference Document in compliance with Wizards of the Coast Open Gaming License v1.0a.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Players can be added to the Compendium via tapping on the Library icon in the top right of the app.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;
+&lt;li&gt;The Checkmark can be tapped multiple times to add several of the same creature to a combat encounter.&lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="2.-starting-combat"&gt;2. Starting Combat&lt;/h4&gt;&lt;p&gt;Now that the monsters and players in your encounter are loaded, let&amp;#x2019;s start combat.&lt;/p&gt;&lt;p&gt;Tap &lt;strong&gt;Start&lt;/strong&gt; in the bottom left of the screen to start the encounter. This will roll initiative for all the enemies in the encounter.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; By default the app doesn&amp;#x2019;t roll initiative for the Player Characters. If desired, the app can roll for the PCs as well. Tap on the settings and change that setting.&lt;/em&gt;&lt;/p&gt;&lt;h4 id="3.-managing-combat"&gt;3. Managing Combat&lt;/h4&gt;&lt;p&gt;Manage the encounter by tapping on the &lt;strong&gt;Initiative Order&lt;/strong&gt; icon.&lt;/p&gt;&lt;p&gt;For Player Characters, manually add their initiative into the Initiative block if the app is not rolling for their characters. You may notice there is also a helpful &amp;#x201C;ROLL&amp;#x201D; feature available here that will allow you roll for players characters as well.&lt;/p&gt;&lt;p&gt;Creature and character health are tracked here as well. Tap on the creatures health and type in the amount of damage that creature has taken into the Damage Calculator. It will automatically subtract. Tap anywhere on the screen to dismiss the Damage Calculator.&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; Tap on the &amp;#x201C;MOD&amp;#x201D; button in the Damage Calculator to change the number to healing as opposed to damage.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Tapping on the Arrows in the bottom right corner of the app interface once the Combat has started will highlight the next or previous creature in the initiative order to keep track of turns.&lt;/p&gt;&lt;h4 id="4.-ending-combat"&gt;4. Ending Combat&lt;/h4&gt;&lt;p&gt;Once the combat has concluded, tap the &lt;strong&gt;&amp;#x201C;Stop&amp;#x201D;&lt;/strong&gt; button in the lower left corner of the interface and the combat will end. Combat can be resumed if the Start button is tapped and combat will resume where the initiative last left off.&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; Combat can be toggled on or off at will. Combat does have to be stopped in order to add additional creatures to the combat. When Start is tapped there is an option to re-roll initiative. Tap Later if combat is to be resumed without re-rolling initiative.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </page>
+  <page id="9ce66a5a-4a7f-543a-b7eb-2e3a3f3cff05" parent="d4f42afb-a216-550a-809c-41ba7bc424da">
+    <name>Marking Creatures as Friendly</name>
+    <slug>marking-creatures-as-friendly</slug>
+    <content>&lt;h2 id="marking-creatures-as-friendly"&gt;Marking Creatures as Friendly&lt;/h2&gt;&lt;p&gt;Encounter+ lets you easily add all of the creatures and content available in the SRD. Many of the creatures are useful as NPCs for your games. Thankfully, Encounter+ lets you easily mark any creature as &amp;#x201C;Friendly,&amp;#x201D; so you manage them appropriately in encounter situations. To do so follow these steps.&lt;/p&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Find the creature you need in the Library and load into your encounter. You can find a guide on how to do so &lt;a href="running-encounters"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Swipe to left on the creature you&amp;#x2019;d like to change. You&amp;#x2019;ll see a three buttons slide in. Tap on the yellow Edit button.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="creature_edit.png" alt="Edit Creature" width="200"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Edit Creature menu will open on your screen now. From here simply tap on &amp;#x201C;Friendly&amp;#x201D; and the creature will no longer be considered hostile in the encounter.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;img src="edit_creature_menu.png" alt="Edit Creature Menu" width="200"&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content>
+  </page>
   <page id="8238ed8b-23bf-5b68-9c33-7901f56702b0" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
     <name>Using this Adventure</name>
     <slug>using-this-adventure</slug>
     <content>&lt;h1 id="starting-the-adventure"&gt;Starting the Adventure&lt;/h1&gt;
 &lt;h3 id="how-to-use-this-adventure-guide"&gt;How to use this Adventure Guide&lt;/h3&gt;
 &lt;p&gt;This adventure is written for new and veteran players alike. It’s purpose to help, quickly get you using Encounter+, our very favorite virtual tabletop app. Through out you will see marked off sections labeled as such:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;LEARN HOW: to do a thing&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;These sections will guide you through different features of Encounter+ that are relevant to that section of the guide. Additionally, you’ll see that there are several links within the adventure - &lt;a href=""&gt;They Look Like this&lt;/a&gt;. Tapping on these will take you to reference material within your compendium inside the app. &lt;em&gt;If you forgot to import the default compendium when you first turned open Encounter+ you can do so again from the Settings panel in the app&lt;/em&gt;&lt;/p&gt;
+&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart"&gt;
+&lt;p&gt;&lt;strong&gt;LEARN HOW:&lt;/strong&gt; to do a thing&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;These sections will guide you through different features of Encounter+ that are relevant to that section of the guide. Additionally, you’ll see that there are several links within the adventure - &lt;strong&gt;&lt;a href=""&gt;They Look Like this&lt;/a&gt;&lt;/strong&gt;. Tapping on these will take you to reference material within your compendium inside the app. &lt;em&gt;If you forgot to import the default compendium when you first turned open Encounter+ you can do so again from the Settings panel in the app&lt;/em&gt;&lt;/p&gt;
 </content>
   </page>
   <page id="4522cc1e-3bc9-5547-8b32-6f2731718199" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
@@ -46,8 +244,10 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
     <content>&lt;h2 id="where-are-we%3F"&gt;Where are we?&lt;/h2&gt;
 &lt;p&gt;The adventure begins with the party slowly opening their eyes. They groggily begin to register their senses after this unexpected state of unconsciousness and find themselves in the middle of a small town they don’t recognize. It is a relatively small town, although the homes seem affluent, large and well built. The main roadway through the town is paved in perfectly symmetrical cobblestones with an empty fountain in the center. As the players look around and get their bearings the silence is the most noticeable thing about this place. You would expect a place like this to be a bit more bustling at midday, but there is no sound. You would expect the residents of a place like this to be to-ing and fro-ing, but there are no people. The homes are unlit and empty. The chimneys are clean and smokeless.&lt;/p&gt;
 &lt;p&gt;As the Dungeon Master, you can determine if and how the players know each other. This opening instance is intended to accomplish two things: first, introduce the characters to each other (i.e., describing their characters’ descriptions and a bit of their personalities); and second give your players space to acclimate to the setting.&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;LEARN HOW: to share maps and images with Encounter+&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Once they’ve gotten a feel for what they see you can have them explore the town a bit more. All of the homes are unlocked and empty. With the exception of the Mansion at the edge of the road, nothing of value is inside any of them. You may simply describe what the players see inside.&lt;/p&gt;
+&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart"&gt;
+&lt;p&gt;&lt;a href="showing-content-and-images-to-players"&gt;&lt;strong&gt;LEARN HOW:&lt;/strong&gt; to share images and handouts with Encounter+&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;Once they’ve gotten a feel for what they see you can have them explore the town a bit more. All of the homes are unlocked and empty. With the exception of the Mansion at the edge of the road, nothing of value is inside any of them. You may simply describe what the players see inside.&lt;/p&gt;
 &lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;“The home is well furnished and immaculately clean. In fact, it’s eerily spotless. There are no occupants and is just as devoid of life as the town outside.”&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -70,6 +270,10 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Light.&lt;/strong&gt;&lt;/em&gt; No areas of the cavern, excluding the cistern are lit. Players will either need Darkvision or their own source of light to be able to see.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Tunnels.&lt;/strong&gt;&lt;/em&gt; The separate caverns are connected by narrow tunnels. The walls of these tunnels are irreguluar but typically force players to walk single-file through them.&lt;br&gt;
 &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt; Now would be a good time to load up the map of the Underground cave&lt;/em&gt;&lt;/p&gt;
+&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart"&gt;
+&lt;p&gt;&lt;a href="loading-maps-from-modules"&gt;&lt;strong&gt;LEARN HOW:&lt;/strong&gt; to share the map with your players&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;</content>
   </page>
@@ -95,7 +299,10 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
     <content>&lt;h2 id="c1.-snake-pit---starting-area"&gt;C1. Snake Pit - Starting Area&lt;/h2&gt;&lt;p&gt;Unfortunately, the unstable ground they landed on turns out to be a pit of snakes and insects.&lt;/p&gt;&lt;p&gt;As soon as the party lands in this space read the following aloud:&lt;/p&gt;&lt;div class="blockquote-read-wrap"&gt;&lt;blockquote class="read"&gt;
 &lt;p&gt;The area is completely dark, there is no clear indication of where the party is and the sudden landing is very disorienting. As you squirm on this strangley unstable floor you suddenly hear a violent hiss as something lunges from the darkness. For those with darkvision or a light source you see you are in a dark cavern about 25 feet wide with a 10 foot ceiling. Below you, you can see the slithering bodies of dozens and dozens of snakes.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;&lt;p&gt;After reading this the party enters combat with one &lt;a href="/monster/giant-poisonous-snake"&gt;Giant Poisonous Snake&lt;/a&gt; and two &lt;a href="/monster/poisonous-snake"&gt;Poisonous Snakes&lt;/a&gt;. Remember that any who failed the earlier save must begin combat in the prone position.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: to run combat in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;p&gt;There are dozens more snakes and insects in this space, but thankfully only these creatures attacked the players. You can use the remaining critters as a means to goad the players forward. While there is nothing of value in this area, the cavern is filled with decaying corpses and littered with dismembered limbs. There appears to be only one way in or out of this cavern.&lt;/p&gt;</content>
+&lt;/div&gt;&lt;p&gt;After reading this the party enters combat with one &lt;a href="/monster/giant-poisonous-snake"&gt;Giant Poisonous Snake&lt;/a&gt; and two &lt;a href="/monster/poisonous-snake"&gt;Poisonous Snakes&lt;/a&gt;. Remember that any who failed the earlier save must begin combat in the prone position.&lt;/p&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart"&gt;
+&lt;p&gt;&lt;a href="running-encounters"&gt;&lt;strong&gt;LEARN HOW:&lt;/strong&gt; to run combat in Encounter+&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;p&gt;There are dozens more snakes and insects in this space, but thankfully only these creatures attacked the players. You can use the remaining critters as a means to goad the players forward. While there is nothing of value in this area, the cavern is filled with decaying corpses and littered with dismembered limbs. There appears to be only one way in or out of this cavern.&lt;/p&gt;</content>
   </page>
   <page id="0a256132-2ffd-537f-b89e-b30daa22c6e5" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>C2. Dead Villagers</name>
@@ -172,7 +379,10 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Feel free to improvise other taunts as well&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;&lt;p&gt;When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the &lt;a href="/monster/swarm-of-rats"&gt;Swarm of Rats&lt;/a&gt; to leave Barlow and attack the players.&lt;/p&gt;&lt;h3 id="the-lesser-of-two-evils"&gt;THE LESSER OF TWO EVILS&lt;/h3&gt;&lt;p&gt;When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He&amp;#x2019;ll share how selfish he was and how he abused the town to profit himself. He&amp;#x2019;ll also share that, worst of all, Barlow has now freed an evil &lt;a href="/monster/efreeti"&gt;Efreeti&lt;/a&gt; on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake.&lt;/p&gt;&lt;p&gt;The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other.&lt;/p&gt;&lt;p&gt;&lt;code&gt;LEARN HOW: Mark a creature friendly in Encounter+&lt;/code&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;/div&gt;&lt;p&gt;When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the &lt;a href="/monster/swarm-of-rats"&gt;Swarm of Rats&lt;/a&gt; to leave Barlow and attack the players.&lt;/p&gt;&lt;h3 id="the-lesser-of-two-evils"&gt;THE LESSER OF TWO EVILS&lt;/h3&gt;&lt;p&gt;When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He&amp;#x2019;ll share how selfish he was and how he abused the town to profit himself. He&amp;#x2019;ll also share that, worst of all, Barlow has now freed an evil &lt;a href="/monster/efreeti"&gt;Efreeti&lt;/a&gt; on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake.&lt;/p&gt;&lt;p&gt;The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other.&lt;/p&gt;&lt;div class="blockquote-flowchart-wrap"&gt;&lt;blockquote class="flowchart"&gt;
+&lt;p&gt;&lt;a href="marking_creatures_as_friendly"&gt;LEARN HOW: Mark a creature friendly in Encounter+&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You may use the &lt;a href="/monster/noble"&gt;Noble&lt;/a&gt; stat block for Barlow, the mayor while in combat.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Treasure.&lt;/strong&gt;&lt;/em&gt; When the battle is over the players are rewarded with two items. First, the now empty &lt;a href="/item/efreeti-bottle"&gt;Efreeti Bottle&lt;/a&gt;; which, while empty, is still very valuable &lt;em&gt;(2500 GP worth)&lt;/em&gt; and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the &lt;a href="/item/headband-of-intellect"&gt;Headband of Intellect&lt;/a&gt; and he will either gift it to the party or they can retrieve it from his corpse after the battle.&lt;/p&gt;</content>
   </page>

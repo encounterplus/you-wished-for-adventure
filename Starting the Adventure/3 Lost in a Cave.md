@@ -18,3 +18,6 @@ The mansion suddenly disappears around the party, including the floor. The entir
 > ***Tunnels.*** The separate caverns are connected by narrow tunnels. The walls of these tunnels are irreguluar but typically force players to walk single-file through them.  
 {.paper}
 
+***Note:** Now would be a good time to load up the map of the Underground cave*
+
+> [**LEARN HOW:** to share the map with your players](loading-maps-from-modules) {.flowchart}

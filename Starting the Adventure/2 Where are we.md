@@ -10,7 +10,8 @@ The adventure begins with the party slowly opening their eyes. They groggily beg
 
 As the Dungeon Master, you can determine if and how the players know each other. This opening instance is intended to accomplish two things: first, introduce the characters to each other (i.e., describing their characters’ descriptions and a bit of their personalities); and second give your players space to acclimate to the setting. 
 
-`LEARN HOW: to share maps and images with Encounter+`
+> [**LEARN HOW:** to share images and handouts with Encounter+](showing-content-and-images-to-players)
+>{.flowchart}
 
 Once they've gotten a feel for what they see you can have them explore the town a bit more. All of the homes are unlocked and empty. With the exception of the Mansion at the edge of the road, nothing of value is inside any of them. You may simply describe what the players see inside. 
 
