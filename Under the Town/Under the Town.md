@@ -13,16 +13,16 @@ pdf-pagebreaks: h1
 
 ![map](under_town_cistern.png =400x)
 
-[Load the Map]()
+[Load the Map](underground-cistern-map)
 
 #### The following is a list of the locations inside the cavern.
 
-* [C1. Snake Pit](snake-pit---starting-area)
-* [C2. Dead Villagers](dead-villagers)
-* [C3. Cavern Junction](cavern-junction)
-* [C4. Imprisoned Survivors](imprisoned-survivor)
-* [C5. Secret Tunnel and Dead End](secret-tunnel-and-dead-end)
-* [C6. The Cistern](the-cistern)
+* [C1. Snake Pit](c1-snake-pit---starting-area)
+* [C2. Dead Villagers](c2-dead-villagers)
+* [C3. Cavern Junction](c3-cavern-junction)
+* [C4. Imprisoned Survivors](c4-imprisoned-survivor)
+* [C5. Secret Tunnel and Dead End](c5-secret-tunnel-and-dead-end)
+* [C6. The Cistern](c6-the-cistern)
 
 ## C1. Snake Pit - Starting Area 
 
@@ -137,6 +137,8 @@ The players must essentially make a choice at this point. Will they side with th
 * ***NOTE:** You may use the [Noble](/monster/noble) stat block for Barlow, the mayor while in combat.*
 
 ***Treasure.*** When the battle is over the players are rewarded with two items. First, the now empty [Efreeti Bottle](/item/efreeti-bottle); which, while empty, is still very valuable *(2500 GP worth)* and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the [Headband of Intellect](/item/headband-of-intellect) and he will either gift it to the party or they can retrieve it from his corpse after the battle.
+
+When your players have finished clearing the cistern, the mission ready to be completed. Jump to the last section: **[Ending the Mission](ending-the-mission)**
 
 ## Ending the Mission  
 

@@ -4,7 +4,7 @@ slug: learn-how
 module-pagebreaks: h1, h2
 pdf-pagebreaks: h1
 ---
-![Hero Image](hero.png){.size-cover}
+![Hero Image](hero_tut.png){.size-cover}
 
 # Encounter+ Tutorial 
 #####

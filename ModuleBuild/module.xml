@@ -37,7 +37,7 @@ A two-hour adventure that helps players use and learn Encounter+.&lt;/p&gt;
   <page id="d4f42afb-a216-550a-809c-41ba7bc424da" parent="f1254ae6-5da7-50d2-b0b9-6cf9cf8b58d3">
     <name>Encounter+ Tutorial</name>
     <slug>encounter-tutorial</slug>
-    <content>&lt;p&gt;&lt;img src="hero.png" alt="Hero Image" class="size-cover"&gt;&lt;/p&gt;&lt;h1 id="encounter%2B-tutorial"&gt;Encounter+ Tutorial&lt;/h1&gt;&lt;h5 id&gt;&lt;/h5&gt;&lt;p&gt;This tutorial for Encounter+ is meant to help you get accilmated and familiar with the virutal tabletop software. To begin this will not be a comrehensive guide on how to use every feature in this app. However, it should have enough information to get you started. It is also meant to be used along side the included module: &lt;em&gt;&lt;strong&gt;You Wished for Adventure!&lt;/strong&gt;&lt;/em&gt; For more detailed information and instructions on Encounter+ please join our community on &lt;a href&gt;Discord&lt;/a&gt;.&lt;/p&gt;&lt;h3 id="getting-started"&gt;Getting Started&lt;/h3&gt;&lt;p&gt;To begin, there are several buttons on the screen. Each one has its own purpose and functions. If ever you get lost or need a little help, start by going to the &lt;strong&gt;Help Center&lt;/strong&gt;. You can find it in the &lt;strong&gt;Settings Panel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="settings_button.png" alt="Settings"&gt;&lt;/p&gt;</content>
+    <content>&lt;p&gt;&lt;img src="hero_tut.png" alt="Hero Image" class="size-cover"&gt;&lt;/p&gt;&lt;h1 id="encounter%2B-tutorial"&gt;Encounter+ Tutorial&lt;/h1&gt;&lt;h5 id&gt;&lt;/h5&gt;&lt;p&gt;This tutorial for Encounter+ is meant to help you get accilmated and familiar with the virutal tabletop software. To begin this will not be a comrehensive guide on how to use every feature in this app. However, it should have enough information to get you started. It is also meant to be used along side the included module: &lt;em&gt;&lt;strong&gt;You Wished for Adventure!&lt;/strong&gt;&lt;/em&gt; For more detailed information and instructions on Encounter+ please join our community on &lt;a href&gt;Discord&lt;/a&gt;.&lt;/p&gt;&lt;h3 id="getting-started"&gt;Getting Started&lt;/h3&gt;&lt;p&gt;To begin, there are several buttons on the screen. Each one has its own purpose and functions. If ever you get lost or need a little help, start by going to the &lt;strong&gt;Help Center&lt;/strong&gt;. You can find it in the &lt;strong&gt;Settings Panel&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="settings_button.png" alt="Settings"&gt;&lt;/p&gt;</content>
   </page>
   <page id="7c9833d9-4f7e-5d71-a33c-b19e2646a20c" parent="d4f42afb-a216-550a-809c-41ba7bc424da">
     <name>Loading Maps from Modules</name>
@@ -236,6 +236,8 @@ That being said, you can also follow the steps listed below to customize encount
 &lt;p&gt;&lt;strong&gt;LEARN HOW:&lt;/strong&gt; to do a thing&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/div&gt;&lt;p&gt;These sections will guide you through different features of Encounter+ that are relevant to that section of the guide. Additionally, you’ll see that there are several links within the adventure - &lt;strong&gt;&lt;a href=""&gt;They Look Like this&lt;/a&gt;&lt;/strong&gt;. Tapping on these will take you to reference material within your compendium inside the app. &lt;em&gt;If you forgot to import the default compendium when you first turned open Encounter+ you can do so again from the Settings panel in the app&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;If you’d like to peruse through the tutorials seperately just head to the “Learn How” folder in this adventure’s content list.&lt;/p&gt;
+&lt;p&gt;With that being said, let’s get started with the first section: &lt;strong&gt;&lt;a href="where-are-we"&gt;Where are we?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
   </page>
   <page id="4522cc1e-3bc9-5547-8b32-6f2731718199" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
@@ -257,6 +259,7 @@ That being said, you can also follow the steps listed below to customize encount
 &lt;p&gt;He puts his hands wide and says, &lt;em&gt;&amp;quot;You see Barlow, you wanted the perfect town and the perfect town needs heroes, doesn’t it?”&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;He continues to laugh as the man, Barlow, angrily reprimands the Efreeti, &lt;em&gt;“You know this isn’t what I meant, now get rid of these idiots like you did the rest.”&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;“Your wish is my command,”&lt;/em&gt; the Efreeti ominously says while laughing manically.&lt;/p&gt;
+&lt;p&gt;Jump to the next section: &lt;strong&gt;&lt;a href="lost-in-a-cave"&gt;Lost in a Cave&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
   </page>
   <page id="02b9487b-081b-588d-b8ca-37f58f9eccb7" parent="a8cbd673-468f-55dd-8bd1-e37615a5138b">
@@ -284,13 +287,13 @@ That being said, you can also follow the steps listed below to customize encount
 &lt;p&gt;&lt;strong&gt;How do I see the locations?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;To the right of the page, there is a collapseable arrow.  Tap it, and it will expand to show you all the locations.  In EncounterPlus, you can next anything under, well, anything!  Maps, encounters and pages can all be nested this way, so you can organized your adventure however you want.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/div&gt;&lt;p&gt;&lt;img src="under_town_cistern.png" alt="map" width="400"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href&gt;Load the Map&lt;/a&gt;&lt;/p&gt;&lt;h4 id="the-following-is-a-list-of-the-locations-inside-the-cavern."&gt;The following is a list of the locations inside the cavern.&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href="snake-pit---starting-area"&gt;C1. Snake Pit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="dead-villagers"&gt;C2. Dead Villagers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="cavern-junction"&gt;C3. Cavern Junction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="imprisoned-survivor"&gt;C4. Imprisoned Survivors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="secret-tunnel-and-dead-end"&gt;C5. Secret Tunnel and Dead End&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="the-cistern"&gt;C6. The Cistern&lt;/a&gt;&lt;/li&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src="under_town_cistern.png" alt="map" width="400"&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="underground-cistern-map"&gt;Load the Map&lt;/a&gt;&lt;/p&gt;&lt;h4 id="the-following-is-a-list-of-the-locations-inside-the-cavern."&gt;The following is a list of the locations inside the cavern.&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="c1-snake-pit---starting-area"&gt;C1. Snake Pit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="c2-dead-villagers"&gt;C2. Dead Villagers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="c3-cavern-junction"&gt;C3. Cavern Junction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="c4-imprisoned-survivor"&gt;C4. Imprisoned Survivors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="c5-secret-tunnel-and-dead-end"&gt;C5. Secret Tunnel and Dead End&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="c6-the-cistern"&gt;C6. The Cistern&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content>
   </page>
   <page id="5dec353f-cfdf-5e03-a946-c7521cc99ac0" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
@@ -384,7 +387,7 @@ That being said, you can also follow the steps listed below to customize encount
 &lt;/blockquote&gt;
 &lt;/div&gt;&lt;ul&gt;
 &lt;li&gt;&lt;em&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; You may use the &lt;a href="/monster/noble"&gt;Noble&lt;/a&gt; stat block for Barlow, the mayor while in combat.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Treasure.&lt;/strong&gt;&lt;/em&gt; When the battle is over the players are rewarded with two items. First, the now empty &lt;a href="/item/efreeti-bottle"&gt;Efreeti Bottle&lt;/a&gt;; which, while empty, is still very valuable &lt;em&gt;(2500 GP worth)&lt;/em&gt; and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the &lt;a href="/item/headband-of-intellect"&gt;Headband of Intellect&lt;/a&gt; and he will either gift it to the party or they can retrieve it from his corpse after the battle.&lt;/p&gt;</content>
+&lt;/ul&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Treasure.&lt;/strong&gt;&lt;/em&gt; When the battle is over the players are rewarded with two items. First, the now empty &lt;a href="/item/efreeti-bottle"&gt;Efreeti Bottle&lt;/a&gt;; which, while empty, is still very valuable &lt;em&gt;(2500 GP worth)&lt;/em&gt; and is also required to capture the now freed Efreeti. Second, Mayor Barlow was wearing the &lt;a href="/item/headband-of-intellect"&gt;Headband of Intellect&lt;/a&gt; and he will either gift it to the party or they can retrieve it from his corpse after the battle.&lt;/p&gt;&lt;p&gt;When your players have finished clearing the cistern, the mission ready to be completed. Jump to the last section: &lt;strong&gt;&lt;a href="ending-the-mission"&gt;Ending the Mission&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</content>
   </page>
   <page id="18430769-cdc4-54f4-ab8b-03da5fd28999" parent="1c8a8dd7-7778-53a3-b69a-ebce0f35994f">
     <name>Ending the Mission</name>

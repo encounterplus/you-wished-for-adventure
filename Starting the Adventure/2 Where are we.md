@@ -30,3 +30,5 @@ He puts his hands wide and says, *"You see Barlow, you wanted the perfect town a
 He continues to laugh as the man, Barlow, angrily reprimands the Efreeti, *"You know this isn't what I meant, now get rid of these idiots like you did the rest."*
 
 *"Your wish is my command,"* the Efreeti ominously says while laughing manically. 
+
+Jump to the next section: **[Lost in a Cave](lost-in-a-cave)**
