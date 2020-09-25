@@ -87,7 +87,7 @@ The eastern path takes the players to a smaller cavern in this underground space
 > 
 > - Periodically, horrible creatures appear in puffs of smoke and take away villagers. None return. 
 > 
->The players can try to free the villagers here. If a player has thieves tools a **DC 15 check** with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe. 
+>The players can try to free the villagers here. If a player has thieves tools a **DC 12 check** with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe. 
 {.paper}
 
 ## C5. Secret Tunnel and Dead End
