@@ -5,5 +5,19 @@ description: A first level adventure for DND 5e and Encounter+
 category: adventure
 author: nabdo
 cover: cover.png
-version: 53
+version: 62
 autoIncrementVersion: true
+maps:
+  - path: Maps/map---underground-cistern.zip
+    order: 3
+    parent: you-wished-for-adventure-under-the-town
+    slug: underground-cistern-map
+encounters:
+  - path: Encounters/snake-pit-snakes.zip
+    order: 1
+    parent: underground-cistern-map
+    slug: snake-pit-snakes
+  - path: Encounters/traiq-or-barlow.zip
+    order: 2
+    parent: underground-cistern-map
+    slug: traiq-or-barlow
