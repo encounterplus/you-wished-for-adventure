@@ -20,7 +20,9 @@ This adventure lands the players smack dab in the middle of someone else’s wis
 
 **CONTRIBUTORS:**
 
-***Jacob Johnson*** - Creator of [Module Packer for EncounterPlus](https://github.com/encounterplus/module-packer), a simple standalone application for converting markdown documents into modules for EncounterPlus. It also allows exporting the markdown files into a PDF with a similar style.
+***Jacob Johnson*** - Creator of **[Module Packer for EncounterPlus](https://github.com/encounterplus/module-packer)**, a simple standalone application for converting markdown documents into modules for EncounterPlus. It also allows exporting the markdown files into a PDF with a similar style.
+
+***Dusey Van Dusen*** - Tutorial creator and consultant. For more awesomely handy EncounterPlus tutorials check out his **[Youtube](https://www.youtube.com/user/mdusey)** and **[Twitter](https://twitter.com/MikeVanDusen)**.  
 
 ***Team-Hufflepuff*** - map contributions, [Reddit /u/Team-Hufflepuff](https://www.reddit.com/user/Team-Hufflepuff)
 
