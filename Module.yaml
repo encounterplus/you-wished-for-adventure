@@ -5,7 +5,7 @@ description: A first level adventure for DND 5e and Encounter+
 category: adventure
 author: nabdo
 cover: cover.png
-version: 67
+version: 69
 autoIncrementVersion: true
 maps:
   - path: Maps/map---underground-cistern.zip
