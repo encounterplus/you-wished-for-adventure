@@ -5,10 +5,10 @@ description: A first level adventure for DND 5e and Encounter+
 category: adventure
 author: nabdo
 cover: cover.png
-version: 69
+version: 73
 autoIncrementVersion: true
 maps:
-  - path: Maps/map---underground-cistern.zip
+  - path: Maps/underground-cistern-map.zip
     order: 3
     parent: you-wished-for-adventure-under-the-town
     slug: underground-cistern-map
