@@ -2,7 +2,6 @@
 name: Learn How
 slug: learn-how
 module-pagebreaks: h1, h2
-pdf-pagebreaks: h1
 ---
 ![Hero Image](hero_tut.png){.size-cover}
 
@@ -28,6 +27,8 @@ Loading maps included in modules is a straightforward Process. ***The use of Map
 2. In the top right corner of the this page you'll see the load button. Tap on it.
 
     ![Load](load_button.png)
+
+(print-page)
 
 3. Share the map with your players. 
 
@@ -83,6 +84,8 @@ Encounter+ allows you to show content to your players in a variety of ways. Some
 > 
 >Finally, if you are sharing content using the new WebClient method, it will also send your chosen media there as well. 
 
+(print-page)
+
 * How to share an image from Encounter+ 
 
     - Tapping on an image will bring you to separate viewer that displays just that image
@@ -130,6 +133,8 @@ Encounter+ is a great way to manage any combat encounter. It’s designed to qui
 
 > **4. End combat and the encounter** {.text-center}
 >{.flowchart-with-link}
+
+(print-page)
 
 #### 1. Creating an Encounter
 
@@ -187,6 +192,8 @@ Encounter+ lets you easily add all of the creatures and content available in the
 
 2. Swipe to left on the creature you'd like to change. You'll see a three buttons slide in. Tap on the yellow Edit button. 
     - ![Edit Creature](creature_edit.png =200x)
+
+(print-page)
 
 3. The Edit Creature menu will open on your screen now. From here simply tap on "Friendly" and the creature will no longer be considered hostile in the encounter.
     - ![Edit Creature Menu](edit_creature_menu.png =200x)

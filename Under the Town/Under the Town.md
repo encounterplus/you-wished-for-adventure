@@ -2,7 +2,6 @@
 name: Under the Town
 slug: under-the-town
 module-pagebreaks: h1, h2
-pdf-pagebreaks: h1
 ---
 
 # The Town's Underground - Locations Description
@@ -44,6 +43,8 @@ There are dozens more snakes and insects in this space, but thankfully only thes
 ## C2. Dead Villagers
 
 An uneven tunnel connects this space with the cavern in [area C1](c1-snake-pit-starting-area). In this cavern the players find three dead villagers shackled to the rock wall. The players can choose to search these bodies. A **DC 12 Investigation Check** will turn up about 20 gold pieces and a letter crumpled in one of their pockets. 
+
+(print-page)
 
 > **LETTER TO BARLOW**
 > 
@@ -90,12 +91,13 @@ The eastern path takes the players to a smaller cavern in this underground space
 >The players can try to free the villagers here. If a player has thieves tools a **DC 12 check** with them will unlock the shackles. However, the villagers will not leave this space until they feel it is safe. 
 {.paper}
 
+(print-page)
+
 ## C5. Secret Tunnel and Dead End
 
 The path westward is in fact a dead end from this direction of travel. It terminates at a secret exit that cannot be opened from the eastern side. A **DC 18 Perception check** shows that there are cracks in the cavern wall that indicate a passage, but there is no means to activate whatever this is from this side. This is essentially meant to help the players realize they may have missed something earlier and practice some more game mechanics in the process.
 
 ***Secret Tunnel*** - the party may use this to bypass the junction. It also give them the option to sneak into the Cistern (C6) without being noticed. 
-
 
 ## C6. The Cistern
 
@@ -123,7 +125,6 @@ If the players are unnoticed, one of the rats jumps up and shape shifts into an 
 > Feel free to improvise other taunts as well
 {.paper}
 
-
 When Traiq, the imp, does finally notice the players, on his first turn he will become invisible and move as far away from the party as possible. He will then direct the [Swarm of Rats](/monster/swarm-of-rats) to leave Barlow and attack the players. 
 	
 ### THE LESSER OF TWO EVILS
@@ -131,6 +132,8 @@ When Traiq, the imp, does finally notice the players, on his first turn he will 
 When the players kill the rats off, Traiq will address the party. He will try to convince them that Barlow is a horrid person who deserves his fate. He’ll share how selfish he was and how he abused the town to profit himself. He’ll also share that, worst of all, Barlow has now freed an evil [Efreeti](/monster/efreeti) on the land above. Traiq is unable to kill Barlow per the method Barlow used to summon him, but if the players kill Barlow for him he will be in their debt.  Barlow will finally speak up, although he remains on the floor bloodied and bruised. He shares the imp is a liar and that he only wanted what was best for the town. The Efreeti tricked him whenever he would make a wish. He begs the players to kill the imp and recover the bottle so he can re-capture the Efreeti and correct his horrible mistake. 
 	
 The players must essentially make a choice at this point. Will they side with the imp or the mayor? Whoever they choose will become friendly toward them and will aid them in killing off the other. 
+
+(print-page)
 
 > [LEARN HOW: Mark a creature friendly in Encounter+](marking_creatures_as_friendly) {.flowchart}
 	
